@@ -1,1 +1,30 @@
 /* You can add global styles to this file, and also import other style files */
+* {
+  font-family: Lato, Helvetica, sans-serif;
+  color: #666666;
+  font-style: normal;
+}
+p {
+  font-size: 12px;
+}
+.style11 {
+  font-size: 12px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.title {
+  color: #005417;
+  font-size: 16px;
+  margin: 10px 0 10px 0px;
+  font-weight: bold;
+}
+
+.blackbig a:link,
+a:visited,
+a:active {
+  font-size: 11px;
+  color: #666666;
+  text-decoration: none;
+}
+.button {
+  margin-top: 10px;
+}

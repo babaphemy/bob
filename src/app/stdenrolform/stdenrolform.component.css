@@ -1,0 +1,15 @@
+.tfield {
+  border: 1px solid #005417;
+}
+hr {
+  border: none;
+  height: 1px;
+  color: #005417;
+  background-color: #005417;
+}
+.coloredBg {
+  border: none;
+  height: 1px;
+  color: #005417;
+  background-color: #005417;
+}

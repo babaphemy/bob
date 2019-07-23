@@ -1,0 +1,26 @@
+<div class="formContainer">
+  <form novalidate (ngSubmit)="handleLogin()">
+    <label for="exampleInputEmail1">Email address</label>
+    <input
+      type="email"
+      class="form-control"
+      id="exampleInputEmail1"
+      name="email"
+      aria-describedby="emailHelp"
+      [(ngModel)]="usr.email"
+    />
+
+    <label for="exampleInputPassword1">Password</label>
+    <input
+      type="password"
+      class="form-control"
+      name="password"
+      id="exampleInputPassword1"
+      [(ngModel)]="usr.password"
+    />
+
+    <button type="submit" class="btn btn-primary btn-small button">
+      Login
+    </button>
+  </form>
+</div>

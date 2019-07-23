@@ -1,0 +1,58 @@
+.style11 {
+  font-size: 12px;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.blackbig a:link,
+a:visited,
+a:active {
+  font-size: 11px;
+  color: #666666;
+  text-decoration: none;
+}
+
+.style3 {
+  font-weight: bold;
+}
+.style4 {
+  color: #005417;
+}
+.style5 {
+  color: #ffffff;
+}
+.style6 {
+  color: #990000;
+}
+.style8 {
+  color: #990000;
+  font-weight: bold;
+}
+.style10 {
+  color: #ff6600;
+  font-weight: bold;
+  font-style: italic;
+}
+.style9 {
+  color: #666666;
+  font-size: 10px;
+}
+.Pfont {
+  font-size: 8.5pt;
+  color: #005417;
+}
+.style15 {
+  color: #ff6600;
+  font-weight: bold;
+  font-size: 14px;
+}
+.more {
+  color: #000066;
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+  font-size: 9.5pt;
+}
+.style20 {
+  font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+.style21 {
+  font-size: 12px;
+}
