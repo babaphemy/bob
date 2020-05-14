@@ -1,0 +1,8 @@
+button {
+  color: aliceblue;
+}
+button:disabled,
+button[disabled] {
+  border: 1px;
+  background-color: #cccccc;
+}
